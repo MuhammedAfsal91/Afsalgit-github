@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First Branch. Modified
+=======
+First Branch modified 2
+>>>>>>> firstbranch
