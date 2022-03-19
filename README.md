@@ -1,4 +1,2 @@
 # Afsalgit-github
-echo Afsal
-
-afsalmuhammed
+muhammed
